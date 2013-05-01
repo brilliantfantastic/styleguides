@@ -1,7 +1,7 @@
-Styleguides
-===========
+Style Guides
+============
 
-Brilliant Fantastic for programming languages and otherwise.
+Brilliant Fantastic style guides for programming languages and otherwise.
 
 ## Programming Languages
 

@@ -1,6 +1,5 @@
 [Back to Index](../README.md)
 
-Ruby
-====
+## Ruby
 
 [Back to Index](../README.md)
